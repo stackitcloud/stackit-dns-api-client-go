@@ -58,4 +58,4 @@ Class | Method | HTTP request | Description
 
 ## Author
 
-stackit-dns@mail.schwarz
+dns@stackit.cloud

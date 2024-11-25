@@ -5,7 +5,7 @@ info:
   termsOfService: https://stackit.de/en/imprint
   contact:
     name: stackit-dns
-    email: stackit-dns@mail.schwarz
+    email: dns@stackit.cloud
   version: "1.0"
 servers:
 - url: https://api.dns.stackit.cloud
